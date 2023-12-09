@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "김현준"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "**김현준 제작소**입니다."
   location         : "Somewhere"
-  email            :
+  email            : "joy00nsw@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
