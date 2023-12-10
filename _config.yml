@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "김현준"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/khj.jpg"
   bio              : "**김현준 제작소**입니다."
   location         : "부산광역시 해운대구"
   email            : "joy00nsw@naver.com"
