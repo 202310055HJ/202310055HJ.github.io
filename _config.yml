@@ -110,18 +110,19 @@ author:
   location         : "부산광역시 해운대구"
   email            : "joy00nsw@naver.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:joy00nsw@naver.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.youtube.com/watch?v=zkloIJQ46uI"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/202310055HJ"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/hyeonjun20041223/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=="
+links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:joy00nsw@naver.com"
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://www.youtube.com/watch?v=zkloIJQ46uI"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/202310055HJ"
+  - label: "Instagram"
+    icon: "fab fa-fw fa-instagram"
+    url: "https://www.instagram.com/hyeonjun20041223/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=="
 
 # Site Footer
 footer:
