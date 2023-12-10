@@ -129,7 +129,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url:"https://github.com/202310055HJ"
+      url: "https://github.com/202310055HJ"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/hyeonjun20041223/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=="
